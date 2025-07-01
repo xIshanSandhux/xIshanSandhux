@@ -4,6 +4,9 @@ I'm a 4th Year Software Engineering student interested in AI and building cool t
 
 ### 🔭 Currently Working on:
 - **AI Course Planner** – Developing an AI agent to help UVic students plan their courses based on their major and completed credits.
+- **Code Collab** - Developing a web app which can be used by SWEs for pair programming.
+
+But feel free to poke around! 🙃
 
 
 ### 🔗 Connect with Me
