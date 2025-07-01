@@ -3,7 +3,7 @@
 I'm a 4th Year Software Engineering student interested in AI and building cool tech.
 
 ### 🔭 Currently Working on:
-**AI Course Planner** – Developing an AI agent to help UVic students plan their courses based on their major and completed credits.
+- **AI Course Planner** – Developing an AI agent to help UVic students plan their courses based on their major and completed credits.
 
 
 ### 🔗 Connect with Me
