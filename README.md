@@ -6,7 +6,7 @@ I'm a 4th Year Software Engineering student interested in AI and building cool t
 - **AI Course Planner** – Developing an AI agent to help UVic students plan their courses based on their major and completed credits.
 - **DevLoft** - Developing a web app which can be used by SWEs for real time collaborative coding.
 
-Feel free to poke around! 🙃
+Feel free to poke around any of the repos I got! 🙃
 
 
 ### 🔗 Connect with Me
