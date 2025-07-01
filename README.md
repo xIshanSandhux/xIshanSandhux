@@ -3,8 +3,7 @@
 I'm a 4th Year Software Engineering student interested in AI and building cool tech.
 
 ### 🔭 Currently Working on:
-- **AirWriter** – Developing an ML-powered gesture-based text input system that allows users to write characters in the air using hand movements, which are recognized and converted into real-time on-screen text.
-- **AI Course Planner** – Developing an AI agent to help UVic students plan their courses based on their major and completed credits.
+**AI Course Planner** – Developing an AI agent to help UVic students plan their courses based on their major and completed credits.
 
 
 ### 🔗 Connect with Me
