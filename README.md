@@ -35,7 +35,7 @@
   </a>
 </p>
 
->  _*“Feel free to poke around any of my repos — feedback, stars, and forks are always welcome!”*_ 😊
+>  _*Feel free to poke around any of my repos — feedback, stars, and forks are always welcome!*_ 😊
 
 
 
