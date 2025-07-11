@@ -15,7 +15,7 @@
 <h2 align="center"> 🏆 Trophies That Matter (and Look Cool)</h2>
 <p align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=xIshanSandhux&theme=tokyonight&column=5&margin-w=15&margin-h=15&title=-Stars,-Followers,-Reviews" 
+    src="https://github-profile-trophy.vercel.app/?username=xIshanSandhux&theme=dracula&column=5&margin-w=15&margin-h=15&title=-Stars,-Followers,-Reviews" 
     alt="GitHub Trophies"/>
 </p>
 
