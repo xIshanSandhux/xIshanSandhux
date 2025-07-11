@@ -24,7 +24,7 @@
 
 
 
-<h2 align="center"> 🤝 Connect with Me (and Look Cool)</h2>
+<h2 align="center"> 🤝 Connect with Me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ishan-sandhu3121/">
