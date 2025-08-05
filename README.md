@@ -8,9 +8,9 @@
 
 <h2 align="center"> 🛠️ Here are a few things I’ve worked on recently</h2>
 
-- **AI Course Planner** — An AI-powered tool to help UVic students plan their courses based on their major and completed credits.  
-- **DevLoft** — A real-time collaborative coding platform for software engineers for debugging and pair programming sessions.
 - **Bratwurst** — A full-stack RAG AI Agent built with C# .NET, ChromaDB, and LLMs to deliver real-time oceanographic insights. Features a custom re-ranking engine and secure Dockerized architecture.
+- **AI Course Planner** — An AI-powered tool to help students plan their courses based on their academic paths and interests.
+- **DevLoft** — A real-time collaborative coding platform for software engineers for debugging and pair programming sessions.
 - **Jabref** — Contributing to the open-source reference manager used by researchers worldwide.
 
 <h2 align="center"> 🏆 Trophies That Matter (and Look Cool)</h2>
