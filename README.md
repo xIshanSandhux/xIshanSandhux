@@ -6,7 +6,7 @@
 🚀 Always exploring new tools, ideas, and side projects
 
 
-<h2 align="center"> 🛠️ What I'm Currently Working On</h2>
+<h2 align="center"> 🛠️ Here are a few things I’ve worked on recently</h2>
 
 - **AI Course Planner** — An AI-powered tool to help UVic students plan their courses based on their major and completed credits.  
 - **DevLoft** — A real-time collaborative coding platform for software engineers for debugging and pair programming sessions.
