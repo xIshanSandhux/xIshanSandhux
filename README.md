@@ -8,7 +8,7 @@
 
 <h2 align="center"> 🛠️ Currently working on / Recently worked on</h2>
 
-- **Bratwurst** — A full-stack RAG AI Agent built with C# .NET, ChromaDB, and LLMs to deliver real-time oceanographic insights. Features a custom re-ranking engine and secure Dockerized architecture.
+- **Bratwurst** — A full-stack RAG AI Agent built with C# .NET, ChromaDB, and Google Gemini to deliver real-time oceanographic insights. Features a custom re-ranking engine and secure Dockerized architecture.
 - **QA Chat** — Building a custom RAG chat from chat which will be able to get context from the pdf files uploaded by the user.
 - **Jabref** — Contributing to the open-source reference manager used by researchers worldwide.
 
