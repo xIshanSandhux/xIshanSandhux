@@ -19,7 +19,7 @@
     alt="GitHub Trophies"/>
 </p>
 
-<h2 align="center"> 🧰 My Go-To Tech Stack</h2>
+<h2 align="center"> 🧰 My Core Tech Stack</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=python,fastapi,react,js,c,java,cs,postgres,supabase,nodejs,docker,aws,git,redis,azure)](https://skillicons.dev)
 
