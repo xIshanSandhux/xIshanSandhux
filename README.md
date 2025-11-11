@@ -6,7 +6,7 @@
 🚀 Always exploring new tools, ideas, and side projects
 
 
-<h2 align="center"> 🛠️ Here are a few things I’ve worked on recently</h2>
+<h2 align="center"> 🛠️ Currently working on / Recently worked on</h2>
 
 - **Bratwurst** — A full-stack RAG AI Agent built with C# .NET, ChromaDB, and LLMs to deliver real-time oceanographic insights. Features a custom re-ranking engine and secure Dockerized architecture.
 - **QA Chat** — Building a custom RAG chat from chat which will be able to get context from the pdf files uploaded by the user.
@@ -34,8 +34,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
-
-
 
 
 <h2 align="center"> 🤝 Connect with Me</h2>
