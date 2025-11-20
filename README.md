@@ -10,7 +10,7 @@
 
 - **Bratwurst** — A full-stack RAG AI Agent built with C# .NET, ChromaDB, and Google Gemini to deliver real-time oceanographic insights. Features a custom re-ranking engine and secure Dockerized architecture.
 - **QA Chat** (Currently Working On) — Building a custom RAG chat from which will be able to get context from the pdf files uploaded by the user and the web.
-- **CLI Tool** (Currently Working On) — Building a AI assistant CLI tool using NodeJS and JS.
+- **CLI Tool** (Currently Working On) — Building a AI assistant CLI tool using NodeJS and TypeScript.
 
 <h2 align="center"> 🏆 Trophies That Matter (and Look Cool)</h2>
 <p align="center">
