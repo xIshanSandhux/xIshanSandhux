@@ -12,12 +12,12 @@
 - **QA Chat** (Currently Working On) — Building a custom RAG chat from which will be able to get context from the pdf files uploaded by the user and the web.
 - **CLI Tool** (Currently Working On) — Building a AI assistant CLI tool using NodeJS and TypeScript.
 
-<!-- <h2 align="center"> 🏆 Trophies That Matter (and Look Cool)</h2>
+<h2 align="center"> 📈 GitHub Activity </h2>
 <p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=xIshanSandhux&theme=dracula&column=6&margin-w=15&margin-h=15&title=-Stars,-Followers,-Repositories" 
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=xIshanSandhux&show_icons=true&hide=stars&commits_year=2025&theme=tokyonight" 
     alt="GitHub Trophies"/>
-</p> -->
+</p> 
 
 <h2 align="center"> 🧰 My Core Tech Stack</h2>
 
