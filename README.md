@@ -21,7 +21,7 @@
 
 <h2 align="center"> 🧰 My Core Tech Stack</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,react,js,c,java,cs,postgres,supabase,nodejs,docker,aws,git,redis,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,react,js,cpp,java,cs,postgres,supabase,nodejs,docker,aws,git,redis,azure)](https://skillicons.dev)
 
 
 <h2 align="center"> 🤝 Connect with Me</h2>
