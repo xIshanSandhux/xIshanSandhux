@@ -1,7 +1,7 @@
 
   <h1 align="center"> Hi, I'm Ishan 👋</h1>
 
-🎓 Final-year Software Engineering student @ University of Victoria (graduating April 2026)   
+🎓 New Grad Software Engineer  
 🤖 Passionate about AI, backend systems & building cool tech  
 🚀 Always exploring new tools, ideas, and side projects
 
